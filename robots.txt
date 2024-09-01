@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://slacphe.github.io/sitemap.html.gz
+Sitemap: https://slacphe.github.io/app/sitemap.html.gz
+Sitemap: https://slacphe.github.io/assets/sitemap.html.gz
+Sitemap: https://slacphe.github.io/css/sitemap.html.gz
+Sitemap: https://slacphe.github.io/includes/sitemap.html.gz
+Sitemap: https://slacphe.github.io/item/sitemap.html.gz
+Sitemap: https://slacphe.github.io/src/sitemap.html.gz
